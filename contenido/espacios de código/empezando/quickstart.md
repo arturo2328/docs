@@ -88,7 +88,7 @@ Within a codespace, you have access to the Visual Studio Code Marketplace. For t
 
   ![Select the fairyfloss theme](/assets/images/help/codespaces/fairyfloss.png)
 
-4. Changes you make to your editor setup in the current codespace, such as theme and keyboard bindings, are synced automatically via [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync) to any other codespaces you open and any instances of Visual Studio Code that are signed into your GitHub account.
+4. Changes you make to your tipe setup in the current codespace, such as theme and keyboard bindings, are synced automatically via [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync) to any other codespaces you open and any instances of Visual Studio Code that are signed into your GitHub account.
 
 ## Next Steps
 
